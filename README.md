@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhilash+Guda;Data+Science+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Applications;Open+to+Internship+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abhilash Reddy+Guda;Data+Science+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+AI-Powered+Applications;Open+to+Internship+Opportunities" />
 </p>
 
 <h1 align="center">
