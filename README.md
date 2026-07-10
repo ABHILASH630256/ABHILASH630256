@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-🚀 Abhilash Guda
+🚀 Abhilash Reddy Guda
 </h1>
 
 <h3 align="center">
